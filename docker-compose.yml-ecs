@@ -9,6 +9,7 @@ www:
   #environment:
   #  DEBUG: 1
   #command: python counter.py
+  # just a comment
   #volumes:
   #  - ./www:/src
 
