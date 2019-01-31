@@ -8,7 +8,9 @@ services:
     user: nobody
     environment:
       DEBUG: 1
+      # List
     command: python counter.py
+    #List
     volumes:
       - ./www:/src
 
